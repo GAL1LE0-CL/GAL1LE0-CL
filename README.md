@@ -1,6 +1,6 @@
-<h2> Hi, I'm adrxan-09! 💻</h2>
+<h2> Hi, I'm GAL1LE0! 💻</h2>
 
-<h4>I work in my Personal Enterprise Singology (Creative Logy)<h4>
+<h4>I work in my Personal Enterprise CreativeLogy<h4>
 
 
 ### A little more about me...  
@@ -11,7 +11,7 @@ const thai = { html
   code: [Javascript,, HTML, CSS, Node.js, Python, Javascript],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
  
-  <a class="button" href="https://creativelogy-server.web.app"</a>
+  <a class="button" href="https://creativelogy.app"</a>
 ```
 
 
